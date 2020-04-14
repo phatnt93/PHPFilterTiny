@@ -10,7 +10,7 @@
 * 
 * @license MIT License
 * @author phatnt <thanhphat.uit@gmail.com>
-* @github https://github.com/phatnt93/phalcon-validation-filter
+* @github https://github.com/phatnt93/PHPFilterTiny
 * @version 1.0.0
 * 
 */
